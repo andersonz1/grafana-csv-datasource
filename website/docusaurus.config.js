@@ -17,7 +17,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/marcusolsson/grafana-csv-datasource',
+          href: 'https://github.com/andersonz1/grafana-csv-datasource',
           label: 'GitHub',
           position: 'right',
         },
@@ -57,11 +57,11 @@ module.exports = {
           items: [
             {
               label: 'Discussions',
-              href: 'https://github.com/marcusolsson/grafana-csv-datasource/discussions',
+              href: 'https://github.com/andersonz1/grafana-csv-datasource/discussions',
             },
             {
               label: 'Support',
-              href: 'https://github.com/marcusolsson/grafana-csv-datasource/discussions/categories/q-a',
+              href: 'https://github.com/andersonz1/grafana-csv-datasource/discussions/categories/q-a',
             },
             {
               label: 'Twitter',
@@ -72,7 +72,7 @@ module.exports = {
         {
           title: 'Data sources',
           items: [
-            { label: 'CSV', href: 'https://github.com/marcusolsson/grafana-csv-datasource' },
+            { label: 'CSV', href: 'https://github.com/andersonz1/grafana-csv-datasource' },
             { label: 'JSON API', href: 'https://github.com/marcusolsson/grafana-json-datasource' },
             { label: 'Static', href: 'https://github.com/marcusolsson/grafana-static-datasource' },
           ],
@@ -98,7 +98,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/marcusolsson/grafana-csv-datasource/edit/main/website/',
+          editUrl: 'https://github.com/andersonz1/grafana-csv-datasource/edit/main/website/',
           routeBasePath: '/',
         },
         theme: {

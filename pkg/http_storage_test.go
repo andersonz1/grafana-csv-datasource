@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/log"
 )
 
 func TestHTTPStorage_Stat(t *testing.T) {

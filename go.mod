@@ -1,8 +1,8 @@
-module github.com/marcusolsson/grafana-csv-datasource
+module github.com/andersonz1/grafana-csv-datasource
 
 go 1.17
 
-require github.com/grafana/grafana-plugin-sdk-go v0.124.0
+require github.com/andersonz1/grafana-plugin-sdk-go v0.124.0
 
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211112161151-bc219186db40 // indirect

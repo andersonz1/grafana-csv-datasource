@@ -10,11 +10,11 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/datasource"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/instancemgmt"
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/datasource"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/instancemgmt"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/log"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 )
 
 type dataSourceQuery struct {

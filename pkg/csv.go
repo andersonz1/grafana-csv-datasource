@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/grafana/grafana-plugin-sdk-go/backend/log"
-	"github.com/grafana/grafana-plugin-sdk-go/data"
+	"github.com/andersonz1/grafana-plugin-sdk-go/backend/log"
+	"github.com/andersonz1/grafana-plugin-sdk-go/data"
 )
 
 type fieldSchema struct {

@@ -28,11 +28,11 @@
       },
       {
         "name": "Website",
-        "url": "https://github.com/marcusolsson/grafana-csv-datasource"
+        "url": "https://github.com/andersonz1/grafana-csv-datasource"
       },
       {
         "name": "License",
-        "url": "https://github.com/marcusolsson/grafana-csv-datasource/blob/main/LICENSE"
+        "url": "https://github.com/andersonz1/grafana-csv-datasource/blob/main/LICENSE"
       }
     ],
     "screenshots": [
