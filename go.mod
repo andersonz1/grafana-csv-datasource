@@ -3,7 +3,7 @@ module github.com/andersonz1/grafana-csv-datasource
 go 1.17
 
 require github.com/andersonz1/grafana-plugin-sdk-go v0.124.0
-
+replace github.com/andersonz1/grafana-plugin-sdk-go => /home/andersonz/grafana-plugin-sdk-go-0.124.0
 require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211112161151-bc219186db40 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
